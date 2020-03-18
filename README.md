@@ -6,4 +6,4 @@ The file "coordinates.py", to be run in pyraf, allows you to obtain the sky coor
 
 The file "cmd.py", to be run in python, plots the color-magnitude diagram of the stars from the file "results.dat".
 
-The file "trgb.py", to be run in python, selects the stars in the color-magnitude diagram which are in the tip of the red giant branch.
+The file "trgb.py", which is an extension of "cmd.py" and does not work alone, selects the 100 brightest stars in the color-magnitude diagram which are in the tip of the red giant branch.
